@@ -1,0 +1,11 @@
+.nav {
+    height: 2rem;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+    a {
+        text-decoration: none;
+    }
+}
